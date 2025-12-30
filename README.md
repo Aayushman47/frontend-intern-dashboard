@@ -296,6 +296,12 @@ Tasks
 
 
 
+Screenshots of Frontend:
+1.[Login Page](Screenshots/Login.png)
+2.[Register Page](Screenshots/Register.png)
+3.[Dashboard Page](Screenshots/Dashboard.png)
+
+
 
 
 Author
