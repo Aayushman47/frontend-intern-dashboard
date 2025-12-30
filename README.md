@@ -297,9 +297,9 @@ Tasks
 
 
 Screenshots of Frontend:
-1.[Login Page](Screenshots/Login.png)
-2.[Register Page](Screenshots/Register.png)
-3.[Dashboard Page](Screenshots/Dashboard.png)
+1.[Login Page](screenshots/Login.png)
+2.[Register Page](screenshots/Register.png)
+3.[Dashboard Page](screenshots/Dashboard.png)
 
 
 
